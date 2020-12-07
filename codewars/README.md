@@ -1,0 +1,2 @@
+# codewars
+shell script
